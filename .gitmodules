@@ -1,0 +1,6 @@
+[submodule "Turbin3-Escrow"]
+	path = Turbin3-Escrow
+	url = https://github.com/AllenGeorge08/Turbin3-Escrow.git
+[submodule "Vault-Nexora"]
+	path = Vault-Nexora
+	url = https://github.com/AllenGeorge08/Vault-Nexora.git
